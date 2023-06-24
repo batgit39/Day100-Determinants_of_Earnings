@@ -8,21 +8,31 @@ This project focuses on performing linear regression analysis using a dataset to
 The objective of this project is to explore the relationship between earnings, years of schooling, and work experience using linear regression. The goal is to build a predictive model that can estimate earnings based on these two variables.
 
 # Tools and Technologies Used
-Python
+Python.
+
 Libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, plotly.
 
 # Key Features
 Data preprocessing and cleaning to handle missing values and ensure data quality.
+
 Splitting the dataset into training and testing sets for model evaluation.
+
 Utilizing scikit-learn's LinearRegression class to build a linear regression model.
+
 Evaluating the model's performance using the coefficient of determination (r-squared) metric.
+
 Visualization of the estimated earnings, actual earnings, and residuals.
 
 # Repository Contents
 
 data/: Directory containing the dataset used for analysis.
+
 notebooks/: Directory containing Jupyter notebooks with the code for data preprocessing, model building, and evaluation.
+
 images/: Directory containing images of the generated plots and visualizations.
+
+html-pdf/: html and pdfs of the project.
+
 README.md: Markdown file providing an overview of the project, its objectives, and key findings.
 
 # PDF
